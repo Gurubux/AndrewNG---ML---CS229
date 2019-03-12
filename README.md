@@ -1,7 +1,7 @@
 # AndrewNG---ML---CS229
 <h1>AndrewNG | Lecture Collection | Machine Learning | Standford CS229</h1>
-<a href ='https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599'><h3>Lecture Collection | Machine Learning | Standford</h3></a>
-<a href ='http://cs229.stanford.edu/syllabus.html'><h3>Official Syllabus </h3></a>
+<h3><a href ='https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599'>Lecture Collection | Machine Learning | Standford</a></h3>
+<h3><a href ='http://cs229.stanford.edu/syllabus.html'>Official Syllabus </a></h3>
 1 An overview of the course in this introductory meeting.<br>
 2 Linear Regression, gradient descent, and normal equations and discusses how they relate to machine learning. <br>
 3 Locally weighted Regression, probabilistic interpretation and Logistic Regression and how it relates to machine learning. <br>
